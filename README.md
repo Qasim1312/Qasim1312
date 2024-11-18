@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Computer+Science+Student;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Qasim1312.Qasim1312)
 </div>
 
 ## 🎓 About Me
@@ -106,6 +105,5 @@ I'm a final year Computer Science student at FAST National University of Compute
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Qasim1312&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qasim1312&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim1312&layout=compact&theme=radical" alt="Top Languages" />
 </div>
