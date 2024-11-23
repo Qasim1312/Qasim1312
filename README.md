@@ -11,7 +11,7 @@ I'm a final year Computer Science student at FAST National University of Compute
 
 ### 💼 Professional Experience
 
-**Backend Developer** (April 2023 - September 2023)
+**Backend Developer at Algozen** (April 2023 - September 2023)
 - Integrated and managed third-party APIs for enhanced system functionality
 - Refactored legacy codebase to implement clean architecture principles
 - Improved system scalability and reduced dependencies
@@ -96,7 +96,7 @@ I'm a final year Computer Science student at FAST National University of Compute
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-qasim-h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-qasim-h-11b734110/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qasim1312)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedqasimhussain110@gmail.com)
 
